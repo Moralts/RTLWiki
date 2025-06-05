@@ -77,7 +77,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: '通用',
           },
           {
             href: 'https://github.com/Moralts/RTLWiki',
